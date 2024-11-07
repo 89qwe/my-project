@@ -1,2 +1,2 @@
 ﻿Hello, GitHub!
-i am 
+i am happy to learn github
